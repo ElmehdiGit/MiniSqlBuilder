@@ -1,0 +1,14 @@
+{
+    "name": "msb/mini-sql-builder",
+    "description": "This is a mini Sql Builder. It's a package created as an easy and useful way to learn about the Abstract Factory pattern.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elmehdi Terfas",
+            "email": "elmehdi.terfas1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
